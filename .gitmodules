@@ -1,0 +1,3 @@
+[submodule "gitautomation"]
+	path = gitautomation
+	url = ./gitautomation
